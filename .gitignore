@@ -1,5 +1,5 @@
 config.h
 st
 *.diff
-st.o
-x.o
+*.o
+*.rej
