@@ -8,8 +8,9 @@
 static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"Inconsolata:pixelsize=12:antialias=true:autohint=true",
 	"Font Awesome 5 Free:pixelsize=12:antialias=true:autohint=true",
-/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+	"Hack Nerd Font Mono:pixelsize=12:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
